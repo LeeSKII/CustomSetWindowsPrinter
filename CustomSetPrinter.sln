@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSetPrinterTest", "CustomSetPrinter\CustomSetPrinterTest.csproj", "{0E7ABC67-0740-47A8-B03A-96F80FD64659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterPageSize", "PrinterPageSize\PrinterPageSize.csproj", "{70E34D28-AE7D-493C-A477-E062187F5C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7ABC67-0740-47A8-B03A-96F80FD64659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7ABC67-0740-47A8-B03A-96F80FD64659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7ABC67-0740-47A8-B03A-96F80FD64659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7ABC67-0740-47A8-B03A-96F80FD64659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E34D28-AE7D-493C-A477-E062187F5C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E34D28-AE7D-493C-A477-E062187F5C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E34D28-AE7D-493C-A477-E062187F5C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E34D28-AE7D-493C-A477-E062187F5C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6A3605-4D02-4547-93B4-B7E7F482F4EE}
+	EndGlobalSection
+EndGlobal
